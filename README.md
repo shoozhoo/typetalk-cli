@@ -6,7 +6,9 @@ Typetalk cli is Typetalk(https://typetalk.in) cli client.
 Install
 =======
 Need Python 2.7
-    sudo pip install git+https://github.com/shoozhoo/typetalk-cli.git
+```
+sudo pip install git+https://github.com/shoozhoo/typetalk-cli.git
+```
 
 Usage
 =====
