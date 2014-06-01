@@ -316,6 +316,7 @@ def main():
 	conf = loadConf()
 	if 'selected' not in conf:
 		addNewAccount()
+		return
 
 	args.func(args)
 
